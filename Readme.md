@@ -52,6 +52,86 @@ now you can with Kaku, made in c because i would rather eat sticks than use rust
 - [ ] add builds for sun workstations
 - [ ] make my own license
 - [ ] cause sadness to water heater
+- [ ] make my own compiler
+- [ ] optimize
+- [ ] add android port
+- [ ] add pc speaker support (commonly called a beeper) 
+- [ ] add blockchain because why not
+- [ ] add support for whole house electricity maanagement
+- [ ] deprecate code that violates the geoneva convention
+- [ ] add parental control so you can finally control your parents
+- [ ] add support for running on brain cells in a dish
+- [ ] deprecate dishwasher support
+- [ ] add hatsune miku (to the displeasure of crypton media)
+- [ ] add a contributing guideline (singular)
+- [ ] add disclaimer "we are not stealing your data, we are simply borrowing it, permanantly."
+- [ ] hire a lawyer that has passed the bar
+- [ ] forget to pay my taxes
+- [ ] add dishwasher support (finally found a maintainer)
+- [ ] remove aluminium, add iron
+- [ ] add opengl 1.2 support (hardware acceleration yay!)
+- [ ] remove windows 11 support
+- [ ] add support for security (you now have to type please to steal the data)
+- [ ] implement pain
+- [ ] make kaku os
+- [ ] add video playing features (only will play obscure formats)
+- [ ] add picture of banana (i dont even know anymore but i deleted it and it stopped building)
+- [ ] add reminder feature (mostly for me so i remember to pay taxes)
+- [ ] stay compliant to the Geneva suggestion- i mean conventions
+- [ ] make the tos tamper proof
+- [ ] call crypton media to see if we can be friends
+- [ ] start a war with crypton media
+- [ ] give up on war because i dont have money
+- [ ] implement donation button
+- [ ] add support for RFC 2324
+- [ ] add a feature to give information in case of nuclear war
+- [ ] add a tea party button
+- [ ] remove the tea party button
+- [ ] add icon
+- [ ] change icon
+- [ ] make animation
+- [ ] remove animation
+- [ ] update from alpha to beta
+- [ ] remove iron and change to steel
+- [ ] add scaffolding for worker safety
+- [ ] add bloatware
+- [ ] add adverts
+- [ ] add windows 11 support
+- [ ] add printer support
+- [ ] add obscure wifi card support
+- [ ] add macos support, system 1 specifically
+- [ ] remove support for mirrors
+- [ ] amend tos to give us a 24h live camera feed from all users
+- [ ] add support for running on a cars ecu
+- [ ] remove support for hdr display's (need a maintainer)
+- [ ] does thine pain come from thyself or others?
+- [ ] add support for ntp time syncing
+- [ ] remove turring completeness
+- [ ] buy a manor
+- [ ] add speaker
+- [ ] hire servant
+- [ ] add support for modern video encoding and formats, add support for twitch vod downloading
+- [ ] add support for social media addiction
+- [ ] add driving safety features
+- [ ] support solar panel
+- [ ] replace steel with bronze
+- [ ] dye hair green
+- [ ] have a breakdown
+- [ ] add support for an ibm 7094
+- [ ] add support for cd's
+- [ ] make this stable
+- [ ] push to prod
+- [ ] optimize more
+- [ ] fix memory errors
+- [ ] change security method from please to pretty please
+- [ ] engage in a fist fight with the entirity of the fcc
+- [ ] lose
+- [ ] eat pizza
+- [ ] add 32 bit support
+- [ ] speak to compiler
+- [ ] trade soul to compiler
+- [ ] add brick
+- [ ] add big endianess small endianess
 
 ## credits
 meeeeeeeeeeeeeeeeeeee
