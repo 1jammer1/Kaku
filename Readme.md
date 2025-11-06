@@ -39,6 +39,19 @@ now you can with Kaku, made in c because i would rather eat sticks than use rust
 - [ ] rewrite a fork to python
 - [ ] add more ai
 - [ ] remove support for ti84, i figured out it doesnt have a speaker
+- [ ] amend tos to remove first born clause after lawsuit, replace it with you giving me all of your possessions if asked
+- [ ] rewrite in pascal
+- [ ] go back to c
+- [ ] add gamecube support
+- [ ] add uft-8 support
+- [ ] add windows 3.1 support
+- [ ] add album support supporting embeded album titles and pictures not just file names and manually setting it
+- [ ] deprecate support for pdp-11
+- [ ] add bsd support
+- [ ] add plan9 support
+- [ ] add builds for sun workstations
+- [ ] make my own license
+- [ ] cause sadness to water heater
 
 ## credits
 meeeeeeeeeeeeeeeeeeee
