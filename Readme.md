@@ -29,6 +29,16 @@ now you can with Kaku, made in c because i would rather eat sticks than use rust
 - [ ] add mov support
 - [ ] add avi support
 - [ ] support running on a ti-84
+- [ ] add ai
+- [ ] add recall
+- [ ] add tos that sends all your data to me
+- [ ] amend tos so that it gives your soul to me
+- [ ] amend tos so that it gives me your first born
+- [ ] rewrite in c++
+- [ ] rewrite back to c
+- [ ] rewrite a fork to python
+- [ ] add more ai
+- [ ] remove support for ti84, i figured out it doesnt have a speaker
 
 ## credits
 meeeeeeeeeeeeeeeeeeee
