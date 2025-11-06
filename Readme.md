@@ -20,6 +20,15 @@ now you can with Kaku, made in c because i would rather eat sticks than use rust
 - [ ] make hand written sped up assembly
 - [ ] make my own libraries that cause me pain
 - [ ] sync support
+- [ ] old ios support
+- [ ] rewrite in c99
+- [ ] rewrite again in gtk because someone will somehow complain
+- [ ] add ipoAC support (ip over avian carrier)
+- [ ] add midi support
+- [ ] add wav support
+- [ ] add mov support
+- [ ] add avi support
+- [ ] support running on a ti-84
 
 ## credits
 meeeeeeeeeeeeeeeeeeee
