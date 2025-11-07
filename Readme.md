@@ -65,7 +65,7 @@ now you can with Kaku, made in c because i would rather eat sticks than use rust
 - [ ] add hatsune miku (to the displeasure of crypton media)
 - [ ] add a contributing guideline (singular)
 - [ ] add disclaimer "we are not stealing your data, we are simply borrowing it, permanantly."
-- [ ] hire a lawyer that has passed the bar
+- [ ] hire a lawyer that has passed the bar (last one quit, also he didnt pass the bar)
 - [ ] forget to pay my taxes
 - [ ] add dishwasher support (finally found a maintainer)
 - [ ] remove aluminium, add iron
@@ -132,6 +132,8 @@ now you can with Kaku, made in c because i would rather eat sticks than use rust
 - [ ] trade soul to compiler
 - [ ] add brick
 - [ ] add big endianess small endianess
+- [ ] make it run
 
 ## credits
 meeeeeeeeeeeeeeeeeeee
+my lawyer
